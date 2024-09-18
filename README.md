@@ -1,8 +1,8 @@
-
 ---
 # **Optimizing Taxi Fleet Management Throught Predictive Analytics of NYC Taxi Cab Trip Data 🚖**
 ---
 
+![TaxiImage](Taxi_Ride.png)
 
 ### **Premise** 📁
 
